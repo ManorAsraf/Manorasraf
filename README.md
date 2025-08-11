@@ -8,6 +8,6 @@ The projects were developed as part of my studies – both as part of an academi
 
 In the Data Analyst course final project, I created a model to rank countries' tourism attractiveness using SQL and Excel. I analyzed data on heritage sites, nature reserves, weather, happiness, safety, cost of living, and accessibility, applying data cleaning, correlation analysis, and weighted ranking. The results were presented via an interactive visualization.
 
-**Project – Python & Big Data: Demographic Analysis and Forecasting**
+**Project – Python & Big Data tools: Demographic Analysis and Forecasting**
 
-In the Big Data course, I analyzed a large demographic and economic dataset using Python (Spark and Pandas). The data was cleaned, and a machine learning model was built to predict future trends, providing insights for decision-making.
+In this project, as part of a Big Data course, I analyzed a large dataset with demographic and economic data (age, sector, salary, savings, expenses, education, and economic status). The data was cleaned and analyzed using Python (Spark and Pandas). A predictive machine learning model was developed to forecast future trends, providing insights for decision-making.
