@@ -1,20 +1,13 @@
 ## Hi there 👋
 
-This folder presents two selected projects from the field of data analysis, reflecting the combination of in-depth technical knowledge, the use of industry-standard tools, and analytical thinking.
+This Profile presents two selected projects from the field of data analysis, reflecting the combination of in-depth technical knowledge, the use of industry-standard tools, and analytical thinking.
 
 The projects were developed as part of my studies – both as part of an academic degree and through external courses – and represent a small sample of my broad skill set in data processing, advanced analysis, and deriving actionable insights to support decision-making.
 
-<!--
-**ManorAsraf/Manorasraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Countries Project – SQL & Excel: Tourism Attractiveness Ranking**
 
-Here are some ideas to get you started:
+In the Data Analyst course final project, I created a model to rank countries' tourism attractiveness using SQL and Excel. I analyzed data on heritage sites, nature reserves, weather, happiness, safety, cost of living, and accessibility, applying data cleaning, correlation analysis, and weighted ranking. The results were presented via an interactive visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Project – Python & Big Data: Demographic Analysis and Forecasting**
+
+In the Big Data course, I analyzed a large demographic and economic dataset using Python (Spark and Pandas). The data was cleaned, and a machine learning model was built to predict future trends, providing insights for decision-making.
