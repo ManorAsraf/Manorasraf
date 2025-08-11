@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This folder presents two selected projects from the field of data analysis, reflecting the combination of in-depth technical knowledge, the use of industry-standard tools, and analytical thinking.
+
+The projects were developed as part of my studies – both as part of an academic degree and through external courses – and represent a small sample of my broad skill set in data processing, advanced analysis, and deriving actionable insights to support decision-making.
+
 <!--
 **ManorAsraf/Manorasraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
